@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paul A.
+    family-names: Valle
+    email: paul.valle@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0000-0001-6567-1065'
+repository-code: >-
+  https://github.com/DrPaulValle/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Valle05211261-
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnologico de Tijuana
+  Ingeniería Biomédica
+  Gemelos Digitales
+  Práctica 1: Leyes de crecimiento exponencial
+keywords:
+  - Ley de crecimiento exponencial
+  - Método de Heun
+  - Nanohidrogeles
+  - Tasas de liberación de fármaco
+  - Farmacocinética
+  - Protocolo basado en modelos
+license: BSD-2-Clause
+date-released: '2025-02-10'
