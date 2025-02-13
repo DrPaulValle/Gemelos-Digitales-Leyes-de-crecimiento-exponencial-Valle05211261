@@ -5,6 +5,7 @@ Práctica 1: Leyes de crecimiento exponencial
 
 ## Autor
 Paul A. Valle
+
 Departamento de Ingeniería Eléctrica y Electrónica [Ingeniería Biomédica], Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
 
 
