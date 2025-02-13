@@ -2,3 +2,10 @@
 
 # Gemelos Digitales: Leyes de crecimiento exponencial [Valle05211261]
 Práctica 1: Leyes de crecimiento exponencial
+
+## Autor
+Paul A. Valle
+Departamento de Ingeniería Eléctrica y Electrónica [Ingeniería Biomédica], Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
+
+
+## Resumen de la actividad
